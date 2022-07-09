@@ -1,0 +1,7 @@
+build
+.dart_tool
+linux
+macos
+test
+web
+windows
